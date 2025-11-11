@@ -53,3 +53,6 @@ This project builds upon [Amazon-Price-Alert](https://github.com/GaryniL/Amazon-
 
 
 > “The best deals aren’t found — they’re detected.” 
+
+
+Update: Added short project summary for Sprint 1
